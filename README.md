@@ -1,5 +1,5 @@
 # MathGalaxy
-### Bu proje, ilkokul seviyesindeki çocuklara matematiği eğlenceli ve interaktif bir şekilde öğretmek amacıyla geliştirilmiş bir mobil uygulamadır. TÜBİTAK desteğiyle hayata geçirilen bu uygulama, çocukların temel matematik becerilerini geliştirmelerine yardımcı olurken aynı zamanda öğrenmeyi keyifli hale getirmeyi hedefliyor.
+#### Bu proje, ilkokul seviyesindeki çocuklara matematiği eğlenceli ve interaktif bir şekilde öğretmek amacıyla geliştirilmiş bir mobil uygulamadır. TÜBİTAK desteğiyle hayata geçirilen bu uygulama, çocukların temel matematik becerilerini geliştirmelerine yardımcı olurken aynı zamanda öğrenmeyi keyifli hale getirmeyi hedefliyor.
 
 ### Özellikler
 ##### Temel Matematik Konuları: Toplama, çıkarma, çarpma ve bölme işlemleri.
