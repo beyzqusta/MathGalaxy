@@ -11,7 +11,7 @@
 ##### Eğitici İçerik: Seviye bazlı öğrenme modülleriyle uyumlu içerik.
 ##### Renkli Tasarım: Çocuklara hitap eden eğlenceli ve renkli grafikler.
 
-1.[PROJE PLANI](https://github.com/beyzqusta/MathGalaxy/blob/main/Proje%20Planı.md)<br/>
+1.[PROJE PLANI](https://github.com/beyzqusta/MathGalaxy/blob/main/Proje%20Planı)<br/>
 
 
 
