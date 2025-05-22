@@ -12,6 +12,10 @@
 ##### Renkli Tasarım: Çocuklara hitap eden eğlenceli ve renkli grafikler.
 
 1.[PROJE PLANI](https://github.com/beyzqusta/MathGalaxy/blob/main/Proje%20Planı)<br/>
+2.[DURUM DİYAGRAMI](https://github.com/beyzqusta/MathGalaxy/blob/main/Durum%20Diyagramı)<br/>
+3.[TEST](https://github.com/beyzqusta/MathGalaxy/blob/main/Test)<br/>
+4.[DOKÜMANTASYONLARI](https://github.com/beyzqusta/MathGalaxy/blob/main/Dokümantasyon)<br/>
+5.[UYGULAMA LİNKİ](https://github.com/beyzqusta/MathGalaxy/blob/main/Uygulama%20Linki)<br/>
 
 
 
