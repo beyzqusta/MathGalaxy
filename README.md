@@ -7,3 +7,8 @@
 ##### Ödüllendirme Sistemi: Başarıya teşvik için rozetler ve ödüller.
 ##### Eğitici İçerik: Seviye bazlı öğrenme modülleriyle uyumlu içerik.
 ##### Renkli Tasarım: Çocuklara hitap eden eğlenceli ve renkli grafikler.
+
+### PROJE KATEGORİSİ : TÜBİTAK 2209-A
+### PROJE EKİBİ : BEYZA USTA , MERVE TALAN , MELİSA AKAR
+
+
